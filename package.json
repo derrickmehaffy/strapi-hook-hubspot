@@ -1,0 +1,9 @@
+{
+  "name": "strapi-hook-hubspot",
+  "version": "0.0.1",
+  "description": "A Strapi hook package for interfacing with Hubspot",
+  "main": "index.js",
+  "author": "Derrick Mehaffy <derrickmehaffy@gmail.com>",
+  "license": "GPLv3",
+  "private": false
+}
