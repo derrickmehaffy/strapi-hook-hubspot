@@ -34,7 +34,7 @@ npm install strapi-hook-hubspot --save
 
 ## Hook config
 
-To activate and configure the hook, you need to create or update the file `./config/hook.js` in your strapi app.
+To activate and configure the hook, you need to create or update the file `./config/hook.js` in your strapi app. For more information please see the [Strapi hooks documentation](https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/configurations.html#hooks). For information about environmental configs and alternative config locations, see the [Strapi environment documentation](https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/configurations.html#environment).
 
 ```js
 module.exports = {
@@ -60,4 +60,4 @@ module.exports = {
 
 ### License
 
-- Copyright (c) 2020-2021 Derrick Mehaffy & Strapi Solutions ([GPLv3 License](LICENSE.md)).
+- Copyright (c) 2020-2021 Derrick Mehaffy & Strapi Solutions ([GPLv3 License](LICENSE)).
